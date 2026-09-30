@@ -13,3 +13,5 @@ approaches for its problem.
   redirect caching, click analytics, and abuse defenses.
 - [Let's Encrypt](lets-encrypt/README.md): a free automated certificate authority with ACME validation,
   multi-perspective checks, HSM signing, Certificate Transparency, and revocation without OCSP.
+- [NTP Pool](ntp-pool/README.md): a global public time service with volunteer servers, geo-aware DNS,
+  multi-monitor scoring, reflection defenses, NTS and Roughtime, and leap second policy.
